@@ -1,0 +1,15 @@
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\bin\Debug\net6.0\consumer.exe
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\bin\Debug\net6.0\consumer.deps.json
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\bin\Debug\net6.0\consumer.runtimeconfig.json
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\bin\Debug\net6.0\consumer.dll
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\bin\Debug\net6.0\consumer.pdb
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\obj\Debug\net6.0\consumer.csproj.AssemblyReference.cache
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\obj\Debug\net6.0\consumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\obj\Debug\net6.0\consumer.AssemblyInfoInputs.cache
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\obj\Debug\net6.0\consumer.AssemblyInfo.cs
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\obj\Debug\net6.0\consumer.csproj.CoreCompileInputs.cache
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\obj\Debug\net6.0\consumer.dll
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\obj\Debug\net6.0\refint\consumer.dll
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\obj\Debug\net6.0\consumer.pdb
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\obj\Debug\net6.0\consumer.genruntimeconfig.cache
+D:\pact-workshop-dotnet-core-v1\CompletedSolution\Consumer\src\obj\Debug\net6.0\ref\consumer.dll
